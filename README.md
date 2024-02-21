@@ -3,10 +3,11 @@
 <a href="http://www.adafruit.com/products/5889"><img src="assets/5889.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit ItsyBitsy ESP32 8 MB Flash / 2 MB PSRAM. 
+PCB files for the Adafruit ItsyBitsy ESP32 8 MB Flash / 2 MB PSRAM: wFL Antenna and PCB Antenna. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5889
+* https://www.adafruit.com/product/5890
 
 ### Description
 
